@@ -7,4 +7,6 @@ new text here
 
 here are my new changes to the text
 
+<<<<<<< HEAD
 here are the changes made in branch one
+>>>>>> new-branch2
