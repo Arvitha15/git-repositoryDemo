@@ -3,3 +3,6 @@ this is another file stored in my git repos
 =======
 new text here
 >>>>>>> 058f8a77f3beea91689784e43f023dcec6899fa1
+
+
+here are my new changes to the text
