@@ -1,0 +1,120 @@
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.exe
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.deps.json
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.runtimeconfig.json
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.runtimeconfig.dev.json
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\ref\EmployeeWebApi.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.pdb
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.csproj.AssemblyReference.cache
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.AssemblyInfoInputs.cache
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.AssemblyInfo.cs
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.csproj.CoreCompileInputs.cache
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\staticwebassets\EmployeeWebApi.StaticWebAssets.Manifest.cache
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\staticwebassets\EmployeeWebApi.StaticWebAssets.xml
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\scopedcss\bundle\EmployeeWebApi.styles.css
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\ref\EmployeeWebApi.dll
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.pdb
+C:\Users\arvit\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.genruntimeconfig.cache
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\appsettings.json
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.exe
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.deps.json
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.runtimeconfig.json
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.runtimeconfig.dev.json
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\ref\EmployeeWebApi.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\EmployeeWebApi.pdb
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Humanizer.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.csproj.AssemblyReference.cache
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.AssemblyInfoInputs.cache
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.AssemblyInfo.cs
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.csproj.CoreCompileInputs.cache
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\staticwebassets\EmployeeWebApi.StaticWebAssets.Manifest.cache
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\staticwebassets\EmployeeWebApi.StaticWebAssets.xml
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\scopedcss\bundle\EmployeeWebApi.styles.css
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.RazorTargetAssemblyInfo.cache
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\ref\EmployeeWebApi.dll
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.pdb
+D:\angular crud\EmployeeWebApi\EmployeeWebApi\obj\Debug\net5.0\EmployeeWebApi.genruntimeconfig.cache
